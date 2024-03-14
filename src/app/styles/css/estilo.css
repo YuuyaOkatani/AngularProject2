@@ -1,0 +1,190 @@
+.component3{
+    
+    height: 100%;
+    width: 100%;
+    background-color: #a7c3f3;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+.component1{
+
+    display: flex;
+    height: 90%;
+    width: 30%;
+    background-color: #474540;
+    
+    top: 2%;
+    left: 0%;
+    border-radius: 10px;
+    box-shadow:  0 4px 12px   black ;
+
+}
+
+.button1{
+    height: 100px;
+    width: 100px; 
+    background-color: orange;
+    border-radius: 10px;
+    position: absolute;
+    top: 120px;
+    margin: 10px;
+    
+}
+.button1:active{
+    background-color: rgba(255, 166, 0, 0.63);
+    box-shadow: o 5px #666;
+    transform: translateY(4px);
+}
+
+.button2{
+    height: 100px;
+    width: 100px; 
+    background-color: orange;
+    border-radius: 10px;
+    position: absolute;
+    margin: 10px;
+    margin-left: 115px;
+    top: 120px;
+
+    
+    
+}
+.button2:active{
+    background-color: rgba(255, 166, 0, 0.63);
+    box-shadow: o 5px #666;
+    transform: translateY(4px);
+}
+
+
+.button3{
+    height: 100px;
+    width: 100px; 
+    background-color: orange;
+    border-radius: 10px;
+    position: absolute;
+    margin: 10px;
+    margin-left: 115px;
+    top: 220px;
+
+    
+    
+}
+.button3:active{
+    background-color: rgba(255, 166, 0, 0.63);
+    box-shadow: o 5px #666;
+    transform: translateY(4px);
+}
+
+.button4{
+    height: 100px;
+    width: 100px; 
+    background-color: orange;
+    border-radius: 10px;
+    position: absolute;
+    margin: 10px;
+    
+    top: 220px;
+
+    
+    
+}
+.button4:active{
+    background-color: rgba(255, 166, 0, 0.63);
+    box-shadow: o 5px #666;
+    transform: translateY(4px);
+}
+
+.button5{
+    height: 100px;
+    width: 100px; 
+    background-color: orange;
+    border-radius: 10px;
+    position: absolute;
+    margin: 10px;
+    
+    top: 320px;
+
+    
+    
+}
+.button5:active{
+    background-color: rgba(255, 166, 0, 0.63);
+    box-shadow: o 5px #666;
+    transform: translateY(4px);
+}
+
+.button6{
+    height: 100px;
+    width: 100px; 
+    background-color: orange;
+    border-radius: 10px;
+    position: absolute;
+    margin: 10px;
+    margin-left: 115px;
+    
+    top: 320px;
+
+    
+    
+}
+.button6:active{
+    background-color: rgba(255, 166, 0, 0.63);
+    box-shadow: o 5px #666;
+    transform: translateY(4px);
+}
+
+
+
+
+.input1{
+
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    height:25px;
+    width: 250px;
+    margin-right: 100%;
+   
+    background-color: #d8d5d5;
+    font-size: large;
+    
+    
+    
+}
+
+.input2{
+
+    
+    border-radius: 10px;
+    height:25px;
+    width: 210px;
+    margin-left: 10px;
+    margin-top: 40px;
+    position: absolute;
+    background-color: #d8d5d5;
+    font-size: large;
+    
+    
+    
+}
+
+.resultado{
+
+    
+    border-radius: 10px;
+    height:25px;
+    width: 210px;
+    margin-left: 10px;
+    margin-top: 70px;
+    position: absolute;
+    background-color: #d8d5d5;
+    font-size: large;
+    
+    
+    
+}
